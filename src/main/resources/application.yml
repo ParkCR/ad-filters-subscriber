@@ -84,10 +84,10 @@ application:
 
 
     #本地规则文件
-    #local:
-      #- name: 'xndeye private adblock list'
-       # path: 'rule/private.txt' #支持绝对/相对路径
-       # type: easylist
+    local:
+      - name: 'ParkCR hosts'
+        path: 'rule/ParkCR hosts.txt' #支持绝对/相对路径
+        type: hosts
 
   #输出配置
   output:
