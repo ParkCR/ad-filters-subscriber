@@ -86,10 +86,10 @@ application:
 
 
     #本地规则文件
-    local:
-      - name: 'ParkCR hosts'
-        path: 'rule/ParkCR hosts.txt' #支持绝对/相对路径
-        type: hosts
+    #local:
+      #- name: 'ParkCR hosts'
+        #path: 'rule/ParkCR hosts.txt' #支持绝对/相对路径
+        #type: hosts
 
   #输出配置
   output:
