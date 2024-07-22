@@ -54,10 +54,6 @@ application:
         path: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
         type: hosts
 
-      - name: GitHub520 Host
-        path: https://raw.githubusercontent.com/521xueweihan/GitHub520/main/hosts
-        type: hosts
-
       - name: AWAvenue-Ads-Rule
         path: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-hosts.txt
         type: hosts
